@@ -1,7 +1,5 @@
 package self.vpalepu.data.toi;
 
-import java.util.ArrayList;
-
 import org.joda.time.Days;
 import org.joda.time.LocalDate;
 

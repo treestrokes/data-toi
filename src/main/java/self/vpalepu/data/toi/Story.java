@@ -2,7 +2,6 @@ package self.vpalepu.data.toi;
 
 import java.util.ArrayList;
 
-import org.apache.commons.csv.CSVRecord;
 import org.joda.time.LocalDate;
 
 public class Story {
